@@ -1,0 +1,11 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Thomas
+ * Creation Date: 7 avr. 2020 at 15:24:53
+ *********************************************/
+
+Products =  { "desk", "cell"};
+Machines = { "Assembly", "Painting" };
+machineTimes = [ [12,30], [24,24] ];
+machineAvailabilityTime = [24000, 29400];
+productPrice = [12, 20];

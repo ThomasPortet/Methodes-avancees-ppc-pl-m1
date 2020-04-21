@@ -1,0 +1,13 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Thomas
+ * Creation Date: 7 avr. 2020 at 15:24:53
+ *********************************************/
+
+Products =  { "A1", "A2","A3"};
+MaximumDemand = [ 5300, 4500, 5400 ];
+SellingPrice = [ 124, 109, 115 ];
+ProductionCost = [ 733, 529, 654 ];
+ProductionQuota = [ 500, 450, 550 ];
+ActivationCost = [ 170000, 150000, 100000 ];
+MinimumBatch = [ 20, 20, 16 ];
