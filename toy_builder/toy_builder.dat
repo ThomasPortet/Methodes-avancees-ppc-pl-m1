@@ -1,0 +1,14 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Thomas
+ * Creation Date: 4 mai 2020 at 13:34:59
+ *********************************************/
+ Toys = { "Airplane", "Helicopter","Car"};
+Colors = { "Blue", "Green","Red"};
+componentsNeed = [[3, 2, 1],
+[2, 4, 1],
+[1, 2, 4]
+];
+
+profit = [7, 8, 5];
+Available = [25, 29, 30];
