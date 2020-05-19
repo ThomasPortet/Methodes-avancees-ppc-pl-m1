@@ -1,0 +1,11 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Thomas
+ * Creation Date: 19 mai 2020 at 14:23:57
+ *********************************************/
+ 
+Carburants = {"Carburant n°1", "Carburant n°2"};
+Constituants = {"Isopentane", "Gasoline", "Reformat", "Platformat"};
+constitutions = [[0.20, 0.30, 0.30, 0.20], [0.10, 0.10, 0.60, 0.20]];
+reserve = [9000, 10000000000000, 10000000000000, 14000];
+profit =[6000, 5000];
